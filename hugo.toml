@@ -1,0 +1,5 @@
+baseURL = 'https://iquping.github.io/'
+languageCode = 'en-us'
+title = 'Ping'
+url = '/post/'
+theme = 'PaperMod'
